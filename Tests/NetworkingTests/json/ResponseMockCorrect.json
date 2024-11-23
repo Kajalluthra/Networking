@@ -1,0 +1,11 @@
+{
+    "apiVersion": "0.1",
+    "errorResponse": null,
+    "successResponse": {
+        "data": {
+            "param1": "param1Value",
+            "param2": false
+        }
+    }
+}
+
